@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\RtreeAlg\\",
+  "WorkspaceRootPath": "C:\\Users\\bdimitrov\\source\\repos\\R-tree-alg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AAA400D-5E59-4F37-83A2-A73CF87280E1}|RtreeAlg\\RtreeAlg.pyproj|C:\\Users\\dell\\source\\repos\\RtreeAlg\\RtreeAlg\\RtreeAlg.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8AAA400D-5E59-4F37-83A2-A73CF87280E1}|RtreeAlg\\RtreeAlg.pyproj|C:\\Users\\bdimitrov\\source\\repos\\R-tree-alg\\RtreeAlg\\RtreeAlg.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8AAA400D-5E59-4F37-83A2-A73CF87280E1}|RtreeAlg\\RtreeAlg.pyproj|solutionrelative:RtreeAlg\\RtreeAlg.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -17,8 +17,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
@@ -43,24 +47,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "pyplot.py",
-              "DocumentMoniker": "c:\\Users\\dell\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
-              "ToolTip": "c:\\Users\\dell\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
-              "ViewState": "AgIAAD4PAAAAAAAAAAAgwE8PAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\dell\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
+              "RelativeToolTip": "..\\..\\..\\..\\dell\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\matplotlib\\pyplot.py",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-02-04T23:32:21.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T23:32:21.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RtreeAlg.py",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\RtreeAlg\\RtreeAlg\\RtreeAlg.py",
+              "DocumentMoniker": "C:\\Users\\bdimitrov\\source\\repos\\R-tree-alg\\RtreeAlg\\RtreeAlg.py",
               "RelativeDocumentMoniker": "RtreeAlg\\RtreeAlg.py",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\RtreeAlg\\RtreeAlg\\RtreeAlg.py",
+              "ToolTip": "C:\\Users\\bdimitrov\\source\\repos\\R-tree-alg\\RtreeAlg\\RtreeAlg.py",
               "RelativeToolTip": "RtreeAlg\\RtreeAlg.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAApwJwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-02-04T22:23:20.893Z",
               "EditorCaption": ""
